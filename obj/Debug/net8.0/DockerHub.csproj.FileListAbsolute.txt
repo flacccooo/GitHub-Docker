@@ -1,0 +1,14 @@
+C:\Users\alleh\GitHub\DockerHub\bin\Debug\net8.0\DockerHub.exe
+C:\Users\alleh\GitHub\DockerHub\bin\Debug\net8.0\DockerHub.deps.json
+C:\Users\alleh\GitHub\DockerHub\bin\Debug\net8.0\DockerHub.runtimeconfig.json
+C:\Users\alleh\GitHub\DockerHub\bin\Debug\net8.0\DockerHub.dll
+C:\Users\alleh\GitHub\DockerHub\bin\Debug\net8.0\DockerHub.pdb
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\DockerHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\DockerHub.AssemblyInfoInputs.cache
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\DockerHub.AssemblyInfo.cs
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\DockerHub.csproj.CoreCompileInputs.cache
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\DockerHub.dll
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\refint\DockerHub.dll
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\DockerHub.pdb
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\DockerHub.genruntimeconfig.cache
+C:\Users\alleh\GitHub\DockerHub\obj\Debug\net8.0\ref\DockerHub.dll
